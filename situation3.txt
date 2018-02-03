@@ -1,0 +1,15 @@
+10   // max time
+0.5  // tolearance
+0.0  // x0 for object 1
+0.0  // vx0 for object 1
+10.0  // ax for object 1
+15.0  // x0 for object 2
+10.0  // vx0 for object 2
+0.0  // ax for object 2
+0.0  // x0 for object 1
+0.0  // vx0 for object 1
+10.0  // ax for object 1
+15.0  // x0 for object 2
+10.0  // vx0 for object 2
+0.0  // ax for object 2
+// obj 1 will catch obj2 at 3 seconds

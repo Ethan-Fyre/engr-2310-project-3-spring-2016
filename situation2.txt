@@ -1,0 +1,15 @@
+50  // max time
+0.5  // tolearance
+10.0 // x0 for object 1
+2.0  // vx0 for object 1
+0.0  // ax for object 1
+0.0  // x0 for object 2
+1.0  // vx0 for object 2
+0.0  // ax for object 2
+10.0 // y0 for object 1
+0.0  // vy0 for object 1
+0.0  // ay for object 1
+0.0  // y0 for object 2
+1.0  // vy0 for object 2
+0.0  // ay for object 2
+// will never catch it

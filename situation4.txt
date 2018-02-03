@@ -1,0 +1,18 @@
+15   // max time
+0.5  // tolearance
+-10.0  // x0 for object 1
+0.0  // vx0 for object 1
+5.0  // ax for object 1
+15.0  // x0 for object 2
+1.0  // vx0 for object 2
+2.0  // ax for object 2
+-10.0  // x0 for object 1
+0.0  // vx0 for object 1
+5.0  // ax for object 1
+15.0  // x0 for object 2
+1.0  // vx0 for object 2
+2.0  // ax for object 2
+// obj 1 will catch obj2 at 4.4 seconds
+// however, at 1 second intervals, our program will not
+// count this as a collision -- their positions a 4s and 5s are 
+// not close enough!  Better to have a smaller time step.

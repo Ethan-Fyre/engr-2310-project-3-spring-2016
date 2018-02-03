@@ -1,0 +1,15 @@
+100  // max time
+0.5  // tolearance
+10.0 // x0 for object 1
+0.0  // vx0 for object 1
+0.0  // ax for object 1
+0.0  // x0 for object 2
+1.0  // vx0 for object 2
+0.0  // ax for object 2
+0.0  // y0 for object 1 (extra credit only)
+0.0  // vy0 for object 1
+0.0  // ay for object 1
+0.0  // y0 for object 2
+0.0  // vy0 for object 2
+0.0  // ay for object 2
+// should catch it in 10 seconds!
